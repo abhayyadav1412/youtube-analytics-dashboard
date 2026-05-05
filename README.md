@@ -31,21 +31,15 @@ To analyze YouTube video data and identify trends in views, likes, and audience 
 
 # Overview
 overview-(Page 1.png)
-
 # Yearly financial valuation
 Yearly financial valuation-(Page 2.png)
-
 # Category
 Category-(Page 3.png)
-
 # Monthly growth momentum
 Monthly growth momentum-(Page 4.png)
 
-
 ##  Files Included
-
 * YouTube-Analytics-Dashboard.pbix
 
 ##  Conclusion
-
 This dashboard helps understand audience behavior and video performance, enabling better decisions for content growth and overall strategy.
