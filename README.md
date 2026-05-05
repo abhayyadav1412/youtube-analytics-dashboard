@@ -30,7 +30,7 @@ To analyze YouTube video data and identify trends in views, likes, and audience 
 # Dashboard Preview
 
 ## Overview
-overview-(Page 1.png)
+overview_(Page 1.png)
 ## Yearly financial valuation
 Yearly financial valuation-(Page 2.png)
 ## Category
